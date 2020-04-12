@@ -1,0 +1,63 @@
+  
+body
+{
+	background-color: #ffb6c1;
+}
+
+#bdiv
+{
+	padding-bottom: 2.5%;
+	text-align: center;
+}
+
+#div11
+{
+	background-color:#00ffff; 
+	color:#2c3e50;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+
+#h11
+{
+	font-size: 450%;
+	text-align: center;
+}
+
+#movb11
+{
+	margin-right: 15px;
+}
+
+#fampb11
+{
+	margin-right: 15px;
+}
+
+#utibut
+{
+	padding-left: 94%;
+	padding-top: 1%;
+}
+
+#zodcal_hide
+{
+	margin-left: 50%;
+	margin-bottom: 20px;
+}
+
+#calbmi
+{
+	text-align: center;
+}
+
+#calbmi_hide
+{
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+#contact
+{
+	font-size: 25px;
+}
